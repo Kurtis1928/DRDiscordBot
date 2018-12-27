@@ -4,6 +4,7 @@ const config = require("./config.json");
 const token = require("./token.json");
 
 //const prefix = config.prefix;
+//Hello world
 
 // Runs when the bot is initialized
 client.on("ready", () => {
